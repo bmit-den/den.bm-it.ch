@@ -1,0 +1,70 @@
+
+body{
+    background-image: url('C:/Users/Nevio.DeMaria/Documents/GitHub/den.bm-it.ch/img/hintergrundbild.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+.title{
+    text-align: center;
+    font-family: 'Verdana';
+    font-size: 50px;
+    color: antiquewhite;
+    line-height: 1.8;
+}
+.Question{
+    font-family: 'Verdana';
+    font-size: 25px;
+    color: antiquewhite;
+    line-height: 1.8;
+    
+}
+.phrase{
+    font-family: 'Verdana';
+    font-size: larger;
+    color: antiquewhite;
+    line-height: 1.5;
+}
+.smalltitle{   
+    width:300px;
+    height:300px;
+    border-radius:150px;
+    font-family: 'Verdana';
+    font-size:30px;
+    color:antiquewhite;
+    line-height:300px;
+    text-align:center;
+    background:rgb(13, 213, 240)
+    
+}
+.Fusszeile{
+    font-family: 'Verdana';
+    font-size: 10px;
+    color: antiquewhite;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
+.title-about{
+    text-align: center;
+    font-family: 'Verdana';
+    font-size: 50px;
+    color: antiquewhite;
+    padding: 10px;
+}
+.my-person{
+    font-family: 'Verdana';
+    font-size: 25px;
+    color: antiquewhite; 
+    padding: 10px;  
+}
+.zitat{
+    font-family: 'Verdana';
+    font-size: 20px;
+    font-style: italic;
+    color: antiquewhite;
+    padding: 10px;
+}

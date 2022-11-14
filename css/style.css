@@ -31,7 +31,7 @@ body{
     font-family: 'Verdana';
     font-size:30px;
     color:antiquewhite;
-    line-height:300px;
+    line-height:130px;
     text-align:center;
     background:rgb(13, 213, 240)
     
@@ -40,13 +40,14 @@ body{
     font-family: 'Verdana';
     font-size: 10px;
     color: antiquewhite;
+    position: fixed;
+    bottom: 0px;
 }
 
 ul{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 10px;
 }
 .title-about{
     text-align: center;
